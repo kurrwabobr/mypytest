@@ -1,1 +1,1 @@
-print('ya kurwa')
+print('ya')
